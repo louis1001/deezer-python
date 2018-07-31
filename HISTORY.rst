@@ -7,7 +7,9 @@ Unreleased
 ----------
 
 - Optimisation: the session is now stored internally by the client
-
+- Refactoring the module `async.py` to be called `async_module.py`
+  for compatibility with python 3.7.
+ 
 0.6.1 (2017-06-19)
 ------------------
 
